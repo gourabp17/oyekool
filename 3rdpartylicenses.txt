@@ -410,8 +410,6 @@ THE SOFTWARE.
 @angular/router
 MIT
 
-@angular/material/card
-
 @angular/flex-layout
 MIT
 The MIT License
@@ -437,7 +435,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/button
+@angular/material/card
+
+@angular/material/chips
 
 ng2-google-charts
 MIT
@@ -464,12 +464,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-ngx-masonry-gallery
-MIT
-
-@angular/material/chips
+@angular/material/button
 
 @angular/material/icon
+
+ngx-masonry-gallery
+MIT
 
 @angular/material/sidenav
 
